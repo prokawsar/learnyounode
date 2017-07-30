@@ -1,3 +1,6 @@
+/*
+statement: https://hastebin.com/ohusaveduk.coffeescript
+*/
 var http = require("http");
 
 var url = process.argv[2];
