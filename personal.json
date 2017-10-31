@@ -1,0 +1,17 @@
+[
+  {
+     "name": "Kawsar Ahmed",
+     "company": "Saxum",
+     "skills": [
+        "JavaScript",
+        "VueJS",
+        "Angular",
+        "SASS/SCSS",
+        "CSS"
+     ],
+     "github": "",
+     "city": "Amsterdam, Netherlands",
+     "email": "",
+    "facebook": "fkawsar"
+  }
+  ]
