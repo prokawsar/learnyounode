@@ -13,5 +13,21 @@
      "city": "Amsterdam, Netherlands",
      "email": "",
     "facebook": "fkawsar"
-  }
+   },
+   {
+     "name": "Omran Jamal",
+     "company": "North South",
+     "skills": [
+       "Node.js",
+        "JavaScript",
+        "VueJS",
+        "React",
+        "SASS/SCSS"
+     ],
+     "github": "",
+     "city": "Dhaka",
+     "email": "",
+    "facebook": "Omran.Jamal"
+   }
+  
   ]
