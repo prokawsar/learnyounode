@@ -1,8 +1,14 @@
 [
   {
      "name": "Kawsar Ahmed",
+    "admit-year": "2014",
+    "batch" : "BIT 36",
+    "email": "prokawsar@gmail.com",
+    "phone": "01915983757",
     "role": "Developer",
-     "company_institute": "Saxum",
+    "city": "Amsterdam, Netherlands",
+    "company_institute": "Saxum",
+    
      "skills": [
         "JavaScript",
         "VueJS",
@@ -11,14 +17,18 @@
         "CSS"
      ],
      "github": "prokawsar",
-     "city": "Amsterdam, Netherlands",
-     "email": "prokawsar@gmail.com",
-    "facebook": "fkawsar"
+     "facebook": "fkawsar"
    },
    {
      "name": "Omran Jamal",
-     "role": "Student",
-     "company_institute": "North South",
+    "admit-year": "2016",
+    "batch" : "BIT 36",
+    "email": "omran@gmail.com",
+    "phone": "01859683787",
+    "role": "Student",
+    "city": "Amsterdam, Netherlands",
+    "company_institute": "Saxum",
+     
      "skills": [
        "Node.js",
         "JavaScript",
@@ -27,8 +37,6 @@
         "SASS/SCSS"
      ],
      "github": "",
-     "city": "Dhaka",
-     "email": "",
     "facebook": "Omran.Jamal"
    }
   
