@@ -1,7 +1,7 @@
 [
   {
      "name": "Kawsar Ahmed",
-    "admit-year": "2014",
+    "admit_year": "2014",
     "batch" : "BIT 36",
     "email": "prokawsar@gmail.com",
     "phone": "01915983757",
@@ -21,7 +21,7 @@
    },
    {
      "name": "Omran Jamal",
-    "admit-year": "2016",
+    "admit_year": "2016",
     "batch" : "BIT 36",
     "email": "omran@gmail.com",
     "phone": "01859683787",
