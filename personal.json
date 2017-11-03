@@ -9,13 +9,7 @@
     "city": "Amsterdam, Netherlands",
     "company_institute": "Saxum",
     
-     "skills": [
-        "JavaScript",
-        "VueJS",
-        "Angular",
-        "SASS/SCSS",
-        "CSS"
-     ],
+     "working_in": "JavaScript, CSS",
      "github": "prokawsar",
      "facebook": "fkawsar"
    },
@@ -29,13 +23,7 @@
     "city": "Amsterdam, Netherlands",
     "company_institute": "Saxum",
      
-     "skills": [
-       "Node.js",
-        "JavaScript",
-        "VueJS",
-        "React",
-        "SASS/SCSS"
-     ],
+     "working_in": "JavaScript, CSS",
      "github": "",
     "facebook": "Omran.Jamal"
    }
