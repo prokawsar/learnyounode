@@ -2,7 +2,7 @@
   {
      "name": "Kawsar Ahmed",
     "role": "Developer",
-     "company/institute": "Saxum",
+     "company_institute": "Saxum",
      "skills": [
         "JavaScript",
         "VueJS",
@@ -18,7 +18,7 @@
    {
      "name": "Omran Jamal",
      "role": "Developer",
-     "company/institute": "North South",
+     "company_institute": "North South",
      "skills": [
        "Node.js",
         "JavaScript",
